@@ -1,2 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
 !/files_to_move/
+files_to_move/
+venv/
